@@ -4,6 +4,8 @@
 ### Ссылки
 Просим обратить внимание на ссылки ниже. Пожалуйста, убедитесь, что состоите в телеграм-чате, там мы всегда максимально оперативно отвечаем на вопросы.
 
+Practical Deep Learning for Coders 2022: https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+
 https://www.dls.samcs.ru/faq - FAQ
 
 https://www.dls.samcs.ru — наш официальный сайт
