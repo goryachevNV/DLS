@@ -1,2 +1,2 @@
 # DLS
-Deep School Learning
+Deep Learning School
