@@ -5,18 +5,27 @@
 
 Practical Deep Learning for Coders 2022: https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
 
-https://www.dls.samcs.ru/faq - FAQ
+https://www.dls.samcs.ru/faq - FAQ.
 
-https://www.dls.samcs.ru — наш официальный сайт
+https://www.dls.samcs.ru — наш официальный сайт.
 
-https://vk.com/dlschool_mipt — официальное сообщество ВКонтакте
+https://vk.com/dlschool_mipt — официальное сообщество ВКонтакте.
 
-https://t.me/dls_fall2023_advanced — Telegram-чат
+https://t.me/dls_fall2023_advanced — Telegram-чат.
 
-https://t.me/deep_learning_school_news -- Telegram-канал
+https://t.me/deep_learning_school_news -- Telegram-канал.
 
-https://goo.gl/6cLVfX — официальный канал на YouTube. Здесь выкладываются все наши видео со всех курсов, а также другие интересные вещи
+https://goo.gl/6cLVfX — официальный канал на YouTube. Здесь выкладываются все наши видео со всех курсов, а также другие интересные вещи.
 
+https://www.youtube.com/watch?v=CPlYV_DryEo&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX - канал Yury Kashnitsky, mlcourse.ai.
+
+https://www.youtube.com/@hse-cs-lectures/playlists - ФКН ВШЭ,  дистанционные занятия.
+
+https://www.youtube.com/watch?v=HLg4EpeqZP0&list=PLEwK9wdS5g0pAJyqWc9bKj1JjARM_jnzx - ФКН ВШЭ, Машинное обучение 1.
+
+https://www.youtube.com/playlist?list=PLEwK9wdS5g0oCRxBzxsq9lkJkzMgzWiyg - ФКН ВШЭ, Основы машинного обучения.
+
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7 - Computer Science Center, Анализ данных на Python в примерах и задачах. Часть 1.
 
 ### Про что курс? Какова его структура?
 Наш курс состоит из двух семестров.
